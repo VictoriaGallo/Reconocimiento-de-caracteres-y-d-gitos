@@ -1,4 +1,4 @@
-# Reconocimiento-de-caracteres-y-d-gitos
+# Reconocimiento-de-caracteres-y-digitos
 
 implementa un sistema de **reconocimiento de dígitos escritos a mano** usando **Deep Learning** y permite predecir números en **tiempo real con la cámara**.
 
@@ -127,4 +127,7 @@ Puedes escribir un número en papel y el sistema lo reconoce.
 - Reconocimiento de dígitos escritos a mano
 - Proyectos de IA en tiempo real
 - Base para OCR (reconocimiento óptico de caracteres)
+
+<img width="980" height="701" alt="image" src="https://github.com/user-attachments/assets/6672d526-5783-4bee-a87b-dbc8770deea5" />
+
 
