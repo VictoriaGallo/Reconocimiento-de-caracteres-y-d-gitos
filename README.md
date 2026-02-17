@@ -122,12 +122,9 @@ Puedes escribir un número en papel y el sistema lo reconoce.
 
 ## ¿Para qué sirve este código?
 
-✅ Aprender visión por computadora
-✅ Comprender redes convolucionales (CNN)
-✅ Reconocimiento de dígitos escritos a mano
-✅ Proyectos de IA en tiempo real
-✅ Base para OCR (reconocimiento óptico de caracteres)
+- Aprender visión por computadora
+- Comprender redes convolucionales (CNN)
+- Reconocimiento de dígitos escritos a mano
+- Proyectos de IA en tiempo real
+- Base para OCR (reconocimiento óptico de caracteres)
 
----
-
-Solo dime 👍
